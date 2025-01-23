@@ -31,14 +31,14 @@ flutter run
 # Frontend Overview
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="assets/screenshots/0.jpg" alt="Screenshot 1" width="180" height="350">
-  <img src="assets/screenshots/1.jpg" alt="Screenshot 2" width="180" height="350">
-  <img src="assets/screenshots/2.jpg" alt="Screenshot 3" width="180" height="350">
+  <img src="assets/screenshots/0.jpg" alt="Screenshot 1" width="170" height="350">
+  <img src="assets/screenshots/1.jpg" alt="Screenshot 2" width="170" height="350">
+  <img src="assets/screenshots/2.jpg" alt="Screenshot 3" width="170" height="350">
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="assets/screenshots/3.jpg" alt="Screenshot 4" width="180" height="350">
-  <img src="assets/screenshots/4.jpg" alt="Screenshot 5" width="180" height="350">
-  <img src="assets/screenshots/5.jpg" alt="Screenshot 6" width="180" height="350">
+  <img src="assets/screenshots/3.jpg" alt="Screenshot 4" width="170" height="350">
+  <img src="assets/screenshots/4.jpg" alt="Screenshot 5" width="170" height="350">
+  <img src="assets/screenshots/5.jpg" alt="Screenshot 6" width="170" height="350">
 
 ## Clean Architecture and Code
 
